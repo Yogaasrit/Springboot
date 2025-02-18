@@ -1,5 +1,7 @@
 Actuator:
     1. The actuator mainly exposes operational information about the running application — health, metrics, info, dump, env, etc.
+    2. Spring Boot Actuator is a set of built-in tools in Spring Boot that helps you monitor and manage your application in production.
+    3. It provides production-ready features like metrics, health checks, auditing, and more, with minimal setup.
 Dependency:
     implementation 'org.springframework.boot:spring-boot-starter-actuator'
 Configuration:
