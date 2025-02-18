@@ -1,0 +1,6 @@
+1. @EnableConfigurationProperties:
+===================================
+Spring Boot will automatically bind these properties to a Java class.
+The @EnableConfigurationProperties annotation makes this binding process happen.
+When you define custom properties in your application.properties or application.yml.
+
