@@ -4,3 +4,8 @@ Spring Boot will automatically bind these properties to a Java class.
 The @EnableConfigurationProperties annotation makes this binding process happen.
 When you define custom properties in your application.properties or application.yml.
 
+2. @component
+3. @qualifier
+4. @primary
+5. @lazy
+6. @scope
